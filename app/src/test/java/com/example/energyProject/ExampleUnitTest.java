@@ -1,4 +1,4 @@
-package com.example.viewpagertest;
+package com.example.energyProject;
 
 import org.junit.Test;
 

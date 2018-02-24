@@ -1,4 +1,4 @@
-package com.example.viewpagertest;
+package com.example.energyProject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

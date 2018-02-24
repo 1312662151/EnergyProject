@@ -1,4 +1,4 @@
-package layout;
+package com.example.energyProject.Fragments;
 
 
 import android.os.Bundle;
@@ -7,15 +7,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.viewpagertest.R;
+import com.example.energyProject.R;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class twoFragment extends Fragment {
+public class oneFragment extends Fragment {
 
 
-    public twoFragment() {
+    public oneFragment() {
         // Required empty public constructor
     }
 
@@ -24,7 +24,7 @@ public class twoFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_two, container, false);
+        return inflater.inflate(R.layout.fragment_one, container, false);
     }
 
 }
